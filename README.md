@@ -12,4 +12,4 @@ Sign Here 👇
 
 [Marc](https://github.com/MarcFryd) was here. ![peepoAwesome](https://i.imgur.com/L77duEd.png)
 
-[Matthew](https://github.com/M4tthewDE) was here. (Is this stream or what xd) ![nymnHappy](https://static-cdn.jtvnw.net/emoticons/v2/305223436/default/dark/3.0)
+[Matthew](https://github.com/M4tthewDE) was here. (Is this stream or what xd) ![nymnHappy](https://static-cdn.jtvnw.net/emoticons/v1/305223436/default/dark/3.0)
