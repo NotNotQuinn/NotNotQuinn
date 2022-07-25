@@ -4,14 +4,14 @@
 yo
 
 
-Sign Here 👇
----
-[Quinn](https://github.com/NotNotQuinn) was here. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0)
+###### Sign Here 👇
 
-[Auro](https://github.com/mrauro) was here. ![xcqL](https://cdn.betterttv.net/emote/5f295a5a713a6144748adfb5/1x)
+[<img src="https://static-cdn.jtvnw.net/emoticons/v1/25/1.0" width="16" alt="Kappa" />](https://github.com/NotNotQuinn "Quinn was here") 
+[<img src="https://cdn.betterttv.net/emote/5f295a5a713a6144748adfb5/1x" width="16" alt="xqcL" />](https://github.com/mrauro "Auro was here")
+[<img src="https://i.imgur.com/L77duEd.png" width="16" alt="peepoAwesome" />](https://github.com/MarcFryd "Marc was here")
+[<img src="https://static-cdn.jtvnw.net/emoticons/v2/305223436/default/dark/1.0" width="16" alt="nymnHappy" />](https://github.com/M4tthewDE "Matthew was here (Is this steam or what xd)") 
+[<img src="https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/1.0" width="16" alt="TriHard" />](https://github.com/kattah7 "Kattah was here")
 
-[Marc](https://github.com/MarcFryd) was here. ![peepoAwesome](https://i.imgur.com/L77duEd.png)
 
-[Matthew](https://github.com/M4tthewDE) was here. (Is this steam or what xd) ![nymnHappy](https://static-cdn.jtvnw.net/emoticons/v2/305223436/default/dark/1.0)
 
-[Kattah](https://github.com/kattah7) was here. ![TriHard](https://static-cdn.jtvnw.net/emoticons/v2/120232/default/dark/1.0)
+
